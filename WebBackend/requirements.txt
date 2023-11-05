@@ -1,0 +1,6 @@
+sqlalchemy==1.4.46
+pandas
+pydantic
+supervisor
+fastapi
+uvicorn
